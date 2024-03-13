@@ -1,0 +1,57 @@
+﻿X,Y,OBJECTID,MARKERDESC,SYMBOL,ANNOTATION,NAME,STREET_NO,DIRECTION,STREET,STREET_TYP,PHONE,PUB_PRI,CODE,CODE2,PUB_PRI2,MapBookScale,Book_Jurisdiction,ADDRESS,MAP_ROTATION,MapBookPage,PAGE
+-108.212859752,39.3369082230001,1,school,0,0,De Beque School,730, ,Minter,Ave,(970) 283-5596,pub,K-12,K-12,Public,1200,MCSO,"730 Minter Ave, De Beque, 81630",-1,15,Page: 15
+-108.971635689,38.682617592,2,school,0,0,Gateway School,42575, ,HWY 141, ,(970) 931-2276,pub,K-12,K-12,Public,720,MCSO,"42575 HWY 141, Gateway, 81522",-1,23,Page: 23
+-108.353328819,39.104368929,3,school,0,0,Taylor Elementary School,689, ,Brentwood,Dr,(970) 254-4870,pub,ELEM,Elementary,Public,960,MCSO,"689 Brentwood Dr, Palisade, 81526",-1,55,Page: 55
+-108.369786795,39.105011345,5,school,0,0,Palisade High School,3679, ,G,Rd,(970) 464-4800,pub,HIGH,High,Public,1200,MCSO,"3679 G Rd, Palisade, 81526",-1,44,Page: 44
+-108.408503423,39.0965736320001,6,school,0,0,Mount Garfield Middle School,3475, ,Front,St,(970) 254-4720,pub,MIDD,Middle,Public,1200,MCSO,"3475 Front St, Clifton, 81520",-1,39,Page: 39
+-108.445324648,39.0929216710001,7,school,20,21,Clifton Elementary School,3276, ,F,Rd,(970) 254-4760,pub,ELEM,Elementary,Public,1200,MCSO,"3276 F Rd, Clifton, 81520",-1,13,Page: 13
+-108.461524977,39.071202724,8,school,20,22,Chatfield Elementary School,3188, ,D 1/2,Rd,(970) 254-4930,pub,ELEM,Elementary,Public,1200,MCSO,"3188 D 1/2 Rd, Grand Junction 81504",-1,11,Page: 11
+-108.477074415,39.077843752,9,school,0,0,Pear Park Baptist School,3102, ,E,Rd,(970) 434-4113,pri,RELG,Religious,Private,720,MCSO,"3102 E Rd, Grand Junction 81504",-1,45,Page: 45
+-108.472301531,39.0869130020001,10,school,20,20,Central High School,550, ,Warrior,Way,(970) 254-6200,pub,HIGH,High,Public,1200,MCSO,"550 Warrior Way, Grand Junction 81504",-1,10,Page: 10
+-108.484002534,39.098129428,11,school,20,19,Thunder Mountain Elementary School,3063, ,F,Rd,(970) 254-5870,pub,ELEM,Elementary,Public,960,MCSO,"3063 F Rd, Grand Junction 81504",-1,56,Page: 56
+-108.497369949,39.0893165680001,12,school,20,18,Fruitvale Elementary School,585, ,30,Rd,(970) 254-5930,pub,ELEM,Elementary,Public,1200,MCSO,"585 30 Rd, Grand Junction 81504",-1,22,Page: 22
+-108.45173553,39.09442268,13,school,0,0,Genesis Christian School,615, ,I-70 Business,Lp,(970) 434-0205,pri,RELG,Religious,Private,1200,MCSO,"615 I-70 Business Loop, Clifton, 81520",-1,24,Page: 24
+-108.508688829,39.07591913,14,school,0,0,Career Center,2935, ,North,Ave,(970) 254-6000,pub,VOCT,Vocational,Public,900,GJ,"2935 North Ave, Grand Junction 81504",89,9,Page: 9
+-108.509356914,39.0826530890001,15,school,20,17,Bookcliff Middle School,540, ,29 1/4,Rd,(970) 254-6220,pub,MIDD,Middle,Public,1200,GJ,"540 29 1/4 Rd, Grand Junction 81504",89,6,Page: 6
+-108.52091936,39.082985217,16,school,20,18,Nisley Elementary School,543, ,28 3/4,Rd,(970) 254-5900,pub,ELEM,Elementary,Public,1200,GJ,"543 28 3/4 Rd, Grand Junction, 81501",-1,41,Page: 41
+-108.551796426,39.0924405970001,18,school,0,0,Bookcliff Christian School,2702, ,Patterson,Rd,(970) 243-2999,pri,ELEM,Elementary,Private,720,GJ,"2702 Patterson Rd, Grand Junction, 81506",-1,5,Page: 5
+-108.544155006,39.0852508770001,19,school,20,14,Orchard Avenue Elementary School,1800, ,Orchard,Ave,(970) 254-7560,pub,ELEM,Elementary,Public,960,GJ,"1800 Orchard Ave, Grand Junction, 81501",-1,42,Page: 42
+-108.554641213,39.0806972450001,20,school,0,0,Colorado Mesa University,1200, ,North,Ave,(970) 248-1020,pub,COLL,College,Public,2400,GJ,"1200 North Ave, Grand Junction, 81501",89,14,Page: 14
+-108.553437973,39.0751240220001,21,school,0,0,Messiah Lutheran Church K-8th School,840,N,11th,St,(970) 245-2838,pri,ELEM,Elementary,Private,720,GJ,"840 N 11th St, Grand Junction, 81501",-1,38,Page: 38
+-108.556729734,39.072771059,24,school,20,13,Chipeta Elementary School,950,,Chipeta,Ave,(970) 254-6825,pub,ELEM,Elementary,Public,720,GJ,"950 Chipeta Ave, Grand Junction, 81501",-1,12,Page: 12
+-108.540711949,39.0710684000001,25,school,0,0,R-5 High School,455,N,22nd,St,(970) 254-6880,pub,HIGH,High,Public,960,GJ,"455 N 22nd St, Grand Junction, 81501",-1,49,Page: 49
+-108.559219103,39.08701361,27,school,20,11,Tope Elementary School,2220,N,7th,St,(970) 254-7070,pub,ELEM,Elementary,Public,960,GJ,"2220 N 7th St, Grand Junction, 81501",-1,57,Page: 57
+-108.559696777,39.119568907,28,school,0,0,Holy Family School,790, ,26 1/2,Rd,(970) 242-6168,pri,ELEM,Elementary,Private,1200,GJ,"790 26 1/2 Rd, Grand Junction, 81506",-1,29,Page: 29
+-108.559280851,39.0975615400001,29,school,0,0,Happy Kingdom Preschool,641, ,Horizon,Dr,(970) 243-9336,pri,RELG,Religious,Private,960,GJ,"641 Horizon Dr, Grand Junction, 81506",-1,28,Page: 28
+-108.579033022,39.090278083,30,school,20,8,Pomona Elementary School,588, ,25 1/2,Rd,(970) 254-4990,pub,ELEM,Elementary,Public,1200,GJ,"588 25 1/2 Rd, Grand Junction, 81505",89,48,Page: 48
+-108.57187288,39.083939505,31,school,20,9,West Middle School,123,W,Orchard,Ave,(970) 254-5090,pub,MIDD,Middle,Public,1200,GJ,"123 W Orchard Ave, Grand Junction, 81505",-1,58,Page: 58
+-108.502279545,39.0333075940001,32,school,20,23,Mesa View Elementary School,2967, ,B,Rd,(970) 254-7970,pub,ELEM,Elementary,Public,1200,GJ,"2967 B Rd, Grand Junction, 81503",-1,37,Page: 37
+-108.517973743,39.0420210400001,33,school,20,7,Lincoln Orchard Mesa Elementary School,2888, ,B 1/2,Rd,(970) 254-7940,pub,ELEM,Elementary,Public,960,MCSO,"2888 B 1/2 Rd, Grand Junction, 81503",-1,34,Page: 34
+-108.546618135,39.0494202690001,34,school,20,6,Orchard Mesa Middle School,2736, ,C,Rd,(970) 254-6320,pub,MIDD,Middle,Public,1200,GJ,"2736 C Rd, Grand Junction, 81503",-1,43,Page: 43
+-108.557866042,39.0491046010001,35,school,20,5,New Emerson Elementary School,2660, ,Unaweep,Ave,(970) 254-6500,pub,ELEM,Elementary,Public,960,GJ,"2660 Unaweep Ave, Grand Junction, 81503",-1,40,Page: 40
+-108.646069635,39.056960142,37,school,20,4,Wingate Elementary School,334,,South Camp,Rd,(970) 254-4960,pub,ELEM,Elementary,Public,1200,GJ,"334 South Camp Rd, Grand Junction, 81507",-1,59,Page: 59
+-108.64398987,39.084509344,38,school,20,1,Redlands Middle School,2200, ,Broadway, ,(970) 254-7000,pub,MIDD,Middle,Public,1200,MCSO,"2200 Broadway, Grand Junction, 81507",-1,50,Page: 50
+-108.636590813,39.0809738730001,39,school,20,23,Broadway Elementary School,2248, ,Broadway, ,(970) 254-6292,pub,ELEM,Elementary,Public,1200,MCSO,"2248 Broadway, Grand Junction, 81507",-1,7,Page: 7
+-108.615637248,39.1216573630001,40,school,0,0,Appleton Elementary School,2358, ,H,Rd,(970) 254-6400,pub,ELEM,Elementary,Public,960,MCSO,"2358 H Rd, Grand Junction, 81505",-1,4,Page: 4
+-108.716995238,39.148777932,41,school,0,0,Fruita Monument High School,1102, ,Wildcat,Ave,(970) 858-6600,pub,HIGH,High,Public,1200,MCSO,"1102 Wildcat Ave, Fruita, 81521",-1,21,Page: 21
+-108.729794987,39.1625325210001,42,school,0,0,Fruita Middle School,239,N,Maple,St,(970) 254-6570,pub,MIDD,Middle,Public,1200,MCSO,"239 N Maple St, Fruita, 81521",89,20,Page: 20
+-108.734270527,39.1634364230001,43,school,0,0,Shelledy Elementary School,363,N,Mesa,St,(970) 254-6460,pub,ELEM,Elementary,Public,960,MCSO,"363 N Mesa St, Fruita, 81521",-1,54,Page: 54
+-108.563032888,39.0805017640001,44,school,20,10,Grand Junction High School,1400,N,5th,St,(970) 254-6900,pub,HIGH,High,Public,1200,GJ,"1400 N 5th St, Grand Junction, 81501",89,25,Page: 25
+-108.558932668,39.08281451,45,school,0,0,7th Day Advent Elementary School,1704,N,8th,St,(970) 242-7603,pri,ELEM,Elementary,Private,720,GJ,"1704 N 8th St, Grand Junction, 81501",-1,3,Page: 3
+-107.996134054,39.233752489,46,school,0,0,Plateau Valley School,5660, ,HWY 330, ,(970) 487-3547,pub,HIGH,High,Public,1200,MCSO,"5660 HWY 330, Plateau Valley, 81624",-1,47,Page: 47
+-108.812249966,39.203521342,47,school,0,0,Loma Elementary School,1360, ,13,Rd,(970) 254-6520,pub,ELEM,Elementary,Public,1200,MCSO,"1360 13 Rd, Loma, 81524",-1,35,Page: 35
+-108.611611777,39.072515557,48,school,0,0,Scenic Elementary School,451,W,Scenic,Dr,(970) 254-6370,pub,ELEM,Elementary,Public,1200,MCSO,"451 W Scenic Dr, Grand Junction, 81507",-1,53,Page: 53
+-108.558073028,39.0423145780001,49,school,0,0,Dos Rios Elementary School,265, ,Linden,Ave,(970) 254-7910,pub,ELEM,Elementary,Public,1200,GJ,"265 Linden Ave, Grand Junction, 81503",-1,16,Page: 16
+-108.449047325,39.0708717470001,50,school,0,0,Rocky Mountain Elementary School,3260, ,D 1/2,Rd,(970) 254-4900,pub,ELEM,Elementary,Public,960,MCSO,"3260 D 1/2 Rd, Clifton, 81520",-1,52,Page: 52
+-108.469746406,39.0896519660001,51,school,0,0,Grand Mesa Middle School,585, ,31 1/2,Rd,(970) 254-6270,pub,MIDD,Middle,Public,1200,MCSO,"585 31 1/2 Rd, Grand Junction 81504",-1,26,Page: 26
+-108.490294249,39.0679331430001,52,school,0,0,Pear Park Elementary School,432, ,30 1/4,Rd,(970) 254-5960,pub,ELEM,Elementary,Public,960,GJ,"432 30 1/4 Rd, Grand Junction 81504",-1,46,Page: 46
+-108.712141555,39.1486752120001,53,school,0,0,Fruita 8/9 School,1835, ,J,Rd,(970) 254-6720,pub,HIGH,High,Public,1200,MCSO,"1835 J Rd, Fruita, 81521",-1,19,Page: 19
+-108.711592831,39.159752573,54,school,0,0,Rim Rock Elementary School,1810, ,J 6/10,Rd,(970) 254-6770,pub,ELEM,Elementary,Public,960,MCSO,"1810 J 6/10 Rd, Fruita, 81521",-1,51,Page: 51
+-108.578358704,39.0677420100001,55,school,0,0,Dual Immersion Academy,552,W,Main,St,(970) 254-6070,pub,ELEM,Elementary,Public,960,GJ,"552 W Main St, Grand Junction, 81501",-1,17,Page: 17
+-108.518766405,39.1017891320001,58,school,0,0,Independence Academy,675, ,29,Rd,(970) 241-2064,Ctr,K-8, ,Charter,960,GJ,"675 29 Rd, Grand Junction, 81506",-1,30,Page: 30
+-108.564975311,39.0943041410001,59,school,0,0,Juniper Ridge,615, ,Community,Ln,(970) 639-0884,Ctr,K-9, ,Charter,960,GJ,"615 Community Ln, Grand Junction, 81506",-1,31,Page: 31
+-108.548498326,39.072908667,60,school,0,0,Grand River Academy,600,N,14th,St,(970) 254-6393, , , ,OnLine,720,GJ,"600 N 14th St, Grand Junction, 81501",-1,27,Page: 27
+-108.591618795,39.09322331,61,school,0,0,Mesa Valley Community,609, ,25,Rd,(970) 254-7202,Ctr,K-12, ,Charter,960,GJ,"609 25 Rd, Grand Junction, 81505",-1,36,Page: 36
+-108.597638022,39.10886057,62,school,0,0,Caprock Academy,714, ,24 1/2,Rd,(970) 243-1771, ,K-12,,Charter,720,GJ,"714 24 1/2 Rd, Grand Junction, 81505",-1,8,Page: 8
+-108.708875,39.170691629,467, ,0,0, Monument Ridge Elementary School,1501, ,K.4,Rd, , ,ELEM,Elementary,Public,,,"1501 K.4 Road, Fruita, 81521",,,
+-108.586238494,39.0976649150001,468,school,0,0,Western Colorado Community College,2508, ,Blichmann,Ave,(970) 255-2600,pub, ,College,Public,,,,,,
